@@ -1,6 +1,7 @@
-## Welcome to the Spatial AI & Robotics (SAIR) Lab 🙌
+![sair](https://user-images.githubusercontent.com/8695500/210184988-5d48bbe5-b992-43f6-a20f-3ad1a5dabbd1.png)
 
-### 🙋‍♀️ A short introduction
+## 🙋‍♀️ Welcome to the SAIR Lab 🙌
+
 
 - We research Spatial AI and Robotics.
 
