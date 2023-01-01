@@ -1,4 +1,4 @@
-![sair-margin-long](https://user-images.githubusercontent.com/8695500/210185064-e8be8c8c-dcac-4ee7-a315-3d44fba2d6b4.png)
+[![sair-margin-long](https://user-images.githubusercontent.com/8695500/210185064-e8be8c8c-dcac-4ee7-a315-3d44fba2d6b4.png)](https://sairlab.org)
 
 # 🙋‍♀️ Welcome to the SAIR Lab 🙌
 
@@ -9,3 +9,9 @@
 - We are interested in all aspects of algorithm development, including creating **efficient algorithms**,
 proving their **theoretical properties**, distributing them to **open-source communities**, and validating
 them on **real-world robots**.
+
+
+## Find us elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/sairlab)](https://www.linkedin.com/company/sairlab)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sairlab_org/)](https://twitter.com/sairlab_org/)
