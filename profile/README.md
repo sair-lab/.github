@@ -1,7 +1,6 @@
-![sair](https://user-images.githubusercontent.com/8695500/210184988-5d48bbe5-b992-43f6-a20f-3ad1a5dabbd1.png)
+![sair-margin-long](https://user-images.githubusercontent.com/8695500/210185064-e8be8c8c-dcac-4ee7-a315-3d44fba2d6b4.png)
 
-## 🙋‍♀️ Welcome to the SAIR Lab 🙌
-
+# 🙋‍♀️ Welcome to the SAIR Lab 🙌
 
 - We research Spatial AI and Robotics.
 
