@@ -2,8 +2,6 @@
 
 # 🙋‍♀️ Welcome to the SAIR Lab 🙌
 
-- We research Spatial AI and Robotics.
-
 - Our research goal is to achieve **human-level spatial awareness** and **reasoning** on **robotic systems**.
 
 - We are interested in all aspects of algorithm development, including creating **efficient algorithms**,
