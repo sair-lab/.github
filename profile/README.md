@@ -1,6 +1,6 @@
 [![sair-margin-long](https://user-images.githubusercontent.com/8695500/210185064-e8be8c8c-dcac-4ee7-a315-3d44fba2d6b4.png)](https://sairlab.org)
 
-# 🙋‍♀️ Welcome to the SAIR Lab 🙌
+## 🙋‍♀️ Welcome to the SAIR Lab 🙌
 
 - Our research goal is to achieve **human-level spatial awareness** and **reasoning** on **robotic systems**.
 
