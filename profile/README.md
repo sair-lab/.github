@@ -8,6 +8,10 @@
 proving their **theoretical properties**, distributing them to **open-source communities**, and validating
 them on **real-world robots**.
 
+## About open-source.
+
+- SAIR Lab is also leading [PyPose](https://github.com/pypose/pypose), which is an open-source tool for robotics research.
+- This orgnization provides all repos that are not directly related to [PyPose](https://github.com/pypose/pypose).
 
 ## Find us elsewhere 🌎
 
