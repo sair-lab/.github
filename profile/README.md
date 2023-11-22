@@ -11,7 +11,7 @@ them on **real-world robots**.
 ## About open-source.
 
 - SAIR Lab is leading [PyPose](https://github.com/pypose/pypose), which is an open-source tool for robotics research.
-- This GitHub organization provides source code for **publication** and **teaching materials**.
+- This GitHub organization provides source code for **publications** and **teaching materials**.
 
 ## Find us elsewhere 🌎
 
