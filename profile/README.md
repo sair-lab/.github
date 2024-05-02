@@ -1,4 +1,4 @@
-[<img src="https://github.com/sair-lab/.github/assets/8695500/b7728ada-86ff-41ac-9e1b-1db45809e5b3" height="150"/>](https://sairlab.org)
+[<img src="https://github.com/sair-lab/.github/assets/8695500/2308d56a-70f5-480f-936d-379c1a744957" height="150"/>](https://sairlab.org)
 
 ## 🙋‍♀️ Welcome to SAIR Lab 🙌
 
