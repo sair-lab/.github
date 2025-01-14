@@ -4,8 +4,11 @@
 
 - Our research goal is to achieve **human-level spatial awareness and reasoning abilities** on **robotic systems**.
 
-- We are interested in all aspects of algorithm development, including creating **efficient algorithms**,
-proving their **theoretical properties**, validating them on **real-world robots**, and distributing them to **open-source communities**.
+- We are interested in all aspects of algorithm development, including
+  - Creating **efficient algorithms**,
+  - Proving their **theoretical properties**,
+  - Validating them on **real-world robots**, and
+  - Distributing them to **open-source communities**.
 
 ## About open-source.
 
