@@ -2,15 +2,14 @@
 
 ## 🙋‍♀️ Welcome to SAIR Lab 🙌
 
-- Our research goal is to achieve **human-level spatial awareness** and **reasoning** on **robotic systems**.
+- Our research goal is to achieve **human-level spatial awareness reasoning abilities** on **robotic systems**.
 
 - We are interested in all aspects of algorithm development, including creating **efficient algorithms**,
-proving their **theoretical properties**, distributing them to **open-source communities**, and validating
-them on **real-world robots**.
+proving their **theoretical properties**, validating them on **real-world robots**, and distributing them to **open-source communities**.
 
 ## About open-source.
 
-- SAIR Lab is leading [PyPose](https://github.com/pypose/pypose), which is an open-source Python library for differentiable robotics.
+- SAIR Lab is leading [PyPose](https://github.com/pypose/pypose), an open-source Python library for differentiable robotics.
 - This GitHub organization provides source code for **publications** and **teaching materials**.
 
 ## Find us elsewhere 🌎
