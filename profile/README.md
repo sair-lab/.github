@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ Welcome to SAIR Lab 🙌
 
-- At the intersection of **perception**, **spatial reasoning**, and **decision-making**, our long-term research goal is to endow mobile robots with **human-level autonomy**. This vision drives us to develop **algorithms** and **systems** that enable robots to efficiently and robustly:
+- At the intersection of **perception**, **spatial reasoning**, and **decision-making**, our long-term research goal is to endow mobile robots with **human-level autonomy**. This vision drives us to develop **algorithms** and **systems** enabling robots to efficiently and robustly:
 
   - Perceive and interpret various sensory inputs such as images, point clouds, and proprioceptive data.
   - Integrate neural and symbolic representations of spatial common sense and semantic knowledge.
