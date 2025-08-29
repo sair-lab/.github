@@ -2,13 +2,10 @@
 
 ## 🙋‍♀️ Welcome to SAIR Lab 🙌
 
-- Our research goal is to achieve **human-level spatial awareness and reasoning abilities** on **robotic systems**.
-
-- We are interested in all aspects of algorithm development, including
-  - Creating **efficient algorithms**,
-  - Proving their **theoretical properties**,
-  - Validating them on **real-world robots**, and
-  - Distributing them to **open-source communities**.
+- At the intersection of **perception**, **spatial reasoning**, and **decision-making**, our long-term research goal is to endow mobile robots with **human-level autonomy**. This vision drives us to develop algorithms and systems that enable robots to efficiently and robustly:
+  - Perceive and interpret various sensory inputs such as images, point clouds, and proprioceptive data.
+  - Integrate neural and symbolic representations of spatial common sense and semantic knowledge.
+  - Reason and plan in real time to navigate, interact, and adapt within unstructured and dynamic environments.
 
 ## About open-source.
 
