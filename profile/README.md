@@ -10,7 +10,7 @@
 
 ## About open-source.
 
-- SAIR Lab is leading [PyPose](https://github.com/pypose/pypose), an open-source Python library for differentiable robotics.
+- SAIR Lab is leading [PyPose](https://github.com/pypose/pypose), an open-source Python library for differentiable robotics on manifolds.
 - This GitHub organization provides source code for **publications** and **teaching materials**.
 
 ## Find us elsewhere 🌎
