@@ -16,6 +16,7 @@
 
 ## Find us elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/sairlab)](https://www.linkedin.com/company/sairlab)
+[![Website Badge](https://img.shields.io/badge/-Website-blue?style=flat&logo=Linkedin&logoColor=white&link=https://sairlab.org/)](https://sairlab.org/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/company/sairlab)](https://www.linkedin.com/company/sairlab)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sairlab_org/)](https://twitter.com/sairlab_org/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat&labelColor=1ca0f1&logo=youtube&logoColor=white&link=https://www.youtube.com/@sairlab/videos)](https://www.youtube.com/@sairlab/videos)
