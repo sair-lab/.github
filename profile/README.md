@@ -6,7 +6,7 @@
 
   - Perceive and interpret various sensory inputs such as images, point clouds, and proprioceptive data.
   - Integrate neural and symbolic memory representations to capture spatial common sense and semantic knowledge.
-  - Reason, plan, and act in real time to navigate, interact, and adapt within unstructured and dynamic environments.
+  - Reason, plan, and act in real time to navigate in, interact with, and adapt within unstructured and dynamic environments.
 
 ## About open-source.
 
